@@ -1,0 +1,68 @@
+.properties-card {
+  float: left;
+  margin-top: 5%;
+  margin-left: 2%;
+}
+
+.formstyle {
+  margin-left: 550px;
+  margin-top: 10px;
+  margin-right: 50px;
+}
+
+.custom-select1 {
+  width: 383px;
+}
+
+.custom-select2 {
+  width: 413.3px;
+}
+
+.logo {
+  font-style: italic;
+  font-weight: bolder;
+  box-shadow: inset;
+}
+
+.btn-view {
+  border-radius: 5px;
+  float: left;
+}
+
+.btn-view:hover {
+  background-color: rgb(67, 176, 226);
+}
+
+.btn-wish {
+  border-radius: 5px;
+  float: right;
+}
+
+.btn-wish:hover {
+  background-color: rgb(124, 236, 161);
+}
+
+.formdesign {
+  width: 455px;
+}
+
+.admin-side-menu .admin-sider .admin-layout {
+  position: fixed;
+  position: absolute;
+  background: fixed;
+
+}
+
+.breadcrumb-menu {
+  position: fixed;
+  margin-top: 0%;
+}
+
+.user-table {
+  margin-left: 300px;
+}
+
+.previewimg {
+  display: grid;
+  grid: 150px/ auto auto auto
+}
